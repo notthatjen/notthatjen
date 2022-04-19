@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **some solana nft stuff ;)**
 
-- 🌱 I’m currently learning **rust**
+- 🌱 I’m currently learning **rust**, **threejs**, **blender3d**
 
 - 📫 How to reach me **jengkarlong@gmail.com**
 
