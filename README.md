@@ -1,10 +1,10 @@
 <h1 align="center">Yo 👋, I'm Jen</h1>
 
-- 🔭 I’m currently working on **some solana nft stuff ;)**
+- 🔭 I’m currently working on **nothing**
 
-- 🌱 I’m currently learning **rust**, **threejs**, **blender3d**
+- 🌱 I’m currently learning **nothing**
 
-- 📫 How to reach me **jengkarlong@gmail.com**
+- 📫 How to reach me **me@jen.ph**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
