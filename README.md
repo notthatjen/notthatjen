@@ -1,6 +1,6 @@
 <h1 align="center">Yo 👋, I'm Jen</h1>
 
-- 🔭 I’m currently working on **minijs**
+- 🔭 I’m currently working on **computer vision stuff**
 
 - 🌱 I’m currently learning **math**
 
