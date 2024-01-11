@@ -10,3 +10,7 @@ I guess what’s special about me isn’t really with my expertise on different 
 - 🌱 I’m currently learning **rust**
 
 - 📫 How to reach me **me@jen.ph**
+
+
+**Recent Posts**
+- [Understanding Rust Memory Management](https://dev.to/jenph/understanding-rust-memory-management-3o4a)
