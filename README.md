@@ -1,15 +1,13 @@
-<h1 align="center">Yo 👋, I'm Jen</h1>
+![uniquecorn](https://github.com/notthatjen/notthatjen/assets/26903002/ce90e331-e0e1-4fe7-a18a-07321b12fd03)
 
-I’m currently living in Dasmariñas city of Cavite, Philippines. I work in Software in different roles — I’ve been a Chatbot Developer, Software Engineer, and have also worked with Crypto Projects and Web Based Game Developments.
-
-I guess what’s special about me isn’t really with my expertise on different technologies, but how I can solve different kinds of challenging problems. I always try to find a way to solve things in an efficient way without compromising user experience.
-
+👋 Hi there! I’m **Jen Villaganas**, a **Senior Software Engineer** at [Tonic Labs](toniclabs.ltd) My role is quite dynamic—my managers trust me to tackle a wide range of challenges, from web development in Rails and NextJs to building 3D scanning applications with SwiftUI and photogrammetry. I also work on Solana web3 projects, create npm packages, Ruby gems, and conduct data analytics to help clients understand data changes.
 
 - 🔭 I’m currently working on **CamiUi**
 
 - 🌱 I’m currently learning **rust**
 
 - 📫 How to reach me **me@jen.ph**
+
 
 
 **Recent Posts**
