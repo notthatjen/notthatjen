@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **rust**
 
-- 📫 How to reach me **me@jen.ph**
+- 📫 How to reach me **jenvillaganas@gmail.com**
 
 
 
