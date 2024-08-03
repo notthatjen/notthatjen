@@ -2,9 +2,7 @@
 
 👋 Hi there! I’m **Jen Villaganas**, a **Senior Software Engineer** at [Tonic Labs](https://toniclabs.ltd) My role is quite dynamic—my managers trust me to tackle a wide range of challenges, from web development in Rails and NextJs to building 3D scanning applications with SwiftUI and photogrammetry. I also work on Solana web3 projects, create npm packages, Ruby gems, and conduct data analytics to help clients understand data changes.
 
-- 🔭 I’m currently working on [camiÜi](https://camiui.jen.ph)
 
-- 🌱 I’m currently learning **rust**
 
 - 📫 How to reach me **jenvillaganas@gmail.com**
 
