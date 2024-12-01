@@ -6,7 +6,3 @@
 
 - 📫 How to reach me **jenvillaganas@gmail.com**
 
-
-
-**Recent Posts**
-- [Understanding Rust Memory Management](https://dev.to/jenph/understanding-rust-memory-management-3o4a)
